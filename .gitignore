@@ -1,3 +1,4 @@
 /node_modules
 DS_.Store
 package-lock.json
+.env
