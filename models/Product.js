@@ -35,7 +35,7 @@ Product.init(
       allowNull: false, 
       defaultValue: 10,
       validate: {
-        isInt: true
+        isNumeric: true
       }
     },
 
